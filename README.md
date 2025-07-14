@@ -53,7 +53,8 @@ Aprendi que trabalhar com dados vai além do domínio técnico: é essencial ouv
     title="Power BI"
     width="80px"
     style="padding-right: 50px;"
-    src="./Images/Microsoft-Power-BI-Symbol.png"
+    src=
+  
   />
 </p>
 
