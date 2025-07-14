@@ -1,4 +1,4 @@
-## Gelson Ribeiro 
+## Gelson Ribeiro  
 **`Analista de Dados`**
 
 Me chamo Gelson Ribeiro, sou do Rio Grande do Sul. Atualmente, estou cursando **Banco de Dados** na Uniasselvi. Tenho experiência em **SQL**, **Oracle Database**, **Power BI** e **Python**.
@@ -22,64 +22,64 @@ Aprendi que trabalhar com dados vai além do domínio técnico: é essencial ouv
   </a>
 </p>
 
-
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
-<p align="left">
+
+<!-- Tecnologias: container flex para alinhar tudo horizontalmente -->
+<div align="left" style="display: flex; align-items: center; margin-bottom: 20px;">
   <!-- Oracle -->
   <img
-    align="left"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
     alt="Oracle Database"
     title="Oracle Database"
-    width="80px"
-    style="padding-right: 50px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
+    width="90px"
+    height="100px"
+    style="margin-right: 40px;"
   />
   <!-- MySQL -->
   <img
-    align="left"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
     alt="MySQL"
     title="MySQL"
-    width="80px"
-    style="padding-right: 50px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
-  
-  <p align="left">
-  <!-- Power BI -->
+    width="90px"
+    height="100px"
+    style="margin-right: 40px;"
+  />
+  <!-- Power BI (local) -->
   <img
+    src="./Images/powerbi_logo-1.png"
     alt="Power BI"
     title="Power BI"
-    width="80px"
-    style="padding-right: 50px;"
-    src=
-  
+    width="140px"
+    height="70px"
+    style="margin-right: 40px;"
   />
-</p>
-
-
-<br><br clear="all"/>
+  <!-- Python -->
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+    alt="Python"
+    title="Python"
+    width="70px"
+    height="80px"
+  />
+</div>
 
 <hr style="border:0;border-top:1px solid #555;margin:20px 0;" />
 
-
-
 ### 📊 Estatísticas
 
-<p>
+
+<p align="left">
   <img 
-    align="left" 
+    src="https://github-readme-stats.vercel.app/api?username=GelsonRibeiroJr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GelsonRibeiroJr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   <img 
-    align="left" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GelsonRibeiroJr&theme=tokyonight&layout=compact&langs_count=4" 
     alt="Top Languages" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GelsonRibeiroJr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4" 
   />
 </p>
-
