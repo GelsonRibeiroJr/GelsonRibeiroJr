@@ -45,19 +45,18 @@ Aprendi que trabalhar com dados vai além do domínio técnico: é essencial ouv
     width="80px"
     style="padding-right: 50px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+  
+  <p align="left">
+  <!-- Power BI -->
+  <img
+    alt="Power BI"
+    title="Power BI"
+    width="80px"
+    style="padding-right: 50px;"
+    src="./Images/Microsoft-Power-BI-Symbol.png"
   />
-  <p align="center">
-  <!-- Link para baixar o ícone do Power BI -->
-  <a href="https://img.icons8.com/color/48/000000/microsoft-power-bi.png" download="powerbi.png">
-    <img
-      src="https://img.icons8.com/color/48/000000/microsoft-power-bi.png"
-      alt="Power BI"
-      title="Clique para baixar o ícone do Power BI"
-      width="40px"
-      style="padding-right: 15px;"
-    />
-  </a>
 </p>
+
 
 <br><br clear="all"/>
 
